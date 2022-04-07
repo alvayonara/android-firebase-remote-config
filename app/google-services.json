@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "843125220695",
+    "project_id": "android-firebase-remote-d07df",
+    "storage_bucket": "android-firebase-remote-d07df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843125220695:android:c632c9c4ed4db30c5a4a12",
+        "android_client_info": {
+          "package_name": "com.alvayonara.android_firebase_remote_config"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843125220695-6g4f9t29gr49c8orveaj8oqcnp6auca2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbjN7T0hZ_Z3Wehfo7_6SLde491hHPx3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843125220695-6g4f9t29gr49c8orveaj8oqcnp6auca2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
